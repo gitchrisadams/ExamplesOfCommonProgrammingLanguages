@@ -1,3 +1,5 @@
+<img width="1332" height="749" alt="image" src="https://github.com/user-attachments/assets/34cda16b-614b-4949-a3c4-bbc58778323c" />
+
 # Synopsis
 
 Common tasks for various programming languages.
