@@ -1,3 +1,0 @@
-export WORKON_HOME=$HOME/envs
-export PROJECT_HOME=$HOME/Desktop/Web-dev/FlaskTesting
-source /home/cadams/.local/bin/virtualenvwrapper.sh
